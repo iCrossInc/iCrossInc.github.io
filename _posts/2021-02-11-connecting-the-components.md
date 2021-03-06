@@ -8,7 +8,7 @@ Since my last post I have soldered all the resistors to wires, and stripped the 
 
 ![Resistor soldered to the buzzer](/../assets/working-prototype.jpg)
 
-I made a trip out to Waterloo to meet with Sean and Taylor to bring them the components and perform some initial testing. We discovered that the buzzer did lot want to work with the resistor I had selected for it. I’m not sure why this is, but luckily removing the resistor resulted in a normally functioning buzzer. 
+I made a trip out to Waterloo to meet with Sean and Taylor to bring them the components and perform some initial testing. We discovered that the buzzer did not want to work with the resistor I had selected for it. I’m not sure why this is, but luckily removing the resistor resulted in a normally functioning buzzer. 
 
 During the testing we also discovered the FSRs (pictured below) are very responsive when we squeezed them. Hopefully they will work similarly well when they are installed on the tactile pad.
 
